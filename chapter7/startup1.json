@@ -1,0 +1,11 @@
+[
+  {
+    "description": "this is the first mock demo ",
+    "request": {
+      "uri": "/xin"
+    },
+    "response": {
+      "text": "this is the first mock framework"
+    }
+  }
+]
