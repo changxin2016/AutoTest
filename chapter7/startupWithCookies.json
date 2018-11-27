@@ -1,0 +1,15 @@
+[
+  {
+    "description": "this is a get request with cookies",
+    "request":{
+      "uri": "/get/with/cookies",
+      "method": "get",
+      "cookies": {
+        "login": "true"
+      }
+    },
+    "response": {
+      "text": "you must hava a cookies,if you want to visit me !"
+    }
+  }
+]

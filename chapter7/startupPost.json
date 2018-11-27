@@ -1,0 +1,16 @@
+[
+  {
+    "description": "this is a post request with parameters",
+    "request":{
+      "uri": "/postwithparam",
+      "method": "post",
+      "forms": {
+        "name": "huhansan"
+        "sex": "man"
+      }
+    },
+    "response": {
+      "text": "I am coming back!"
+    }
+  }
+]
